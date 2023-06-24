@@ -2,7 +2,7 @@
   "name": "projeto-missions",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
     "test": "mocha tests/**/*.test.js --exit",
     "lint": "eslint erc --ext .js --fix",
